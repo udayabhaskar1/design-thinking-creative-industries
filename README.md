@@ -1,3 +1,3 @@
 # design-thinking-creative-industries
 
-Wireframing and Storyboarding
+Wireframing and Storyboarding, Agile
